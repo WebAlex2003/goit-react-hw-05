@@ -1,0 +1,23 @@
+.button {
+  display: block;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.wrapper {
+  display: flex;
+  gap: 40px;
+}
+
+.genresList {
+  display: flex;
+  gap: 10px;
+
+  list-style: none;
+  padding: 0;
+}
+
+.linkList {
+  list-style: none;
+  padding: 0;
+}

@@ -1,0 +1,10 @@
+.link {
+    font-size: 20px;
+    text-decoration: none;
+    color: black;
+}
+
+.moviesList {
+    list-style: none;
+    padding: 0;
+}
